@@ -1,0 +1,5 @@
+{
+  "name": "AI Certificate Verifier",
+  "description": "Analyzes certificate images to verify authenticity using AI.",
+  "requestFramePermissions": []
+}
